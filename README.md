@@ -12,5 +12,8 @@ Transfer learning has become one of the most common techniques that has achieved
 - Sriram K [Assignment](https://github.com/IBM-EPBL/IBM-Project-13348-1659516930/tree/main/Assesments/M2%20Lead)
 - Vignesh B [Assignment](https://github.com/IBM-EPBL/IBM-Project-13348-1659516930/tree/main/Assesments/M3%20Lead)
 
+# Empathy map
+![Empathy map](https://i.postimg.cc/Y9WgC3gR/empathy-map.jpg)
+
 # Technical architecture
 ![image](https://user-images.githubusercontent.com/66261589/190598063-d6160702-5be1-43a8-915c-2510a51d4ef9.png)
