@@ -7,10 +7,10 @@ Diabetic Retinopathy (DR) is a common complication of diabetes mellitus, which c
 Transfer learning has become one of the most common techniques that has achieved better performance in many areas, especially in medical image analysis and classification. We used Transfer Learning techniques like Inception V3,Resnet50,Xception V3 that are more widely used as a transfer learning method in medical image analysis and they are highly effective.
 
 # Team members
-- Balaji V [Assignment](https://github.com/IBM-EPBL/IBM-Project-13348-1659516930/tree/main/Assesments/Team%20Lead)
-- Thapashvin R [Assignment](https://github.com/IBM-EPBL/IBM-Project-13348-1659516930/tree/main/Assesments/M1%20Lead)
-- Sriram K [Assignment](https://github.com/IBM-EPBL/IBM-Project-13348-1659516930/tree/main/Assesments/M2%20Lead)
-- Vignesh B [Assignment](https://github.com/IBM-EPBL/IBM-Project-13348-1659516930/tree/main/Assesments/M3%20Lead)
+- Balaji V [Assignment](https://github.com/IBM-EPBL/IBM-Project-13348-1659516930/tree/main/Assessments/Team%20Lead%20(Balaji%20V))
+- Thapashvin R [Assignment](https://github.com/IBM-EPBL/IBM-Project-13348-1659516930/tree/main/Assessments/M1%20Lead%20(Thapashvin%20R))
+- Sriram K [Assignment](https://github.com/IBM-EPBL/IBM-Project-13348-1659516930/tree/main/Assessments/M2%20Lead%20(Sriram%20K))
+- Vignesh B [Assignment](https://github.com/IBM-EPBL/IBM-Project-13348-1659516930/tree/main/Assessments/M3%20Lead%20(Vignesh%20B))
 
 # Empathy map
 ![Empathy map](https://i.postimg.cc/Y9WgC3gR/empathy-map.jpg)
