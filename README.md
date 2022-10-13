@@ -15,5 +15,3 @@ Transfer learning has become one of the most common techniques that has achieved
 # Empathy map
 ![Empathy map](https://i.postimg.cc/Y9WgC3gR/empathy-map.jpg)
 
-# Technical architecture
-![image](https://user-images.githubusercontent.com/66261589/190598063-d6160702-5be1-43a8-915c-2510a51d4ef9.png)
