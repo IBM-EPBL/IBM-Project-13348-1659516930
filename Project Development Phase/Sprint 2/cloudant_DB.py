@@ -1,5 +1,5 @@
 from cloudant.client import Cloudant
 
-client = Cloudant.iam("55cd1a75-db28-4490-b6d3-0e709667814a-bluemix", "l2E_BgNgSm4KW3DZ9Tzqcrgufouhz_1zec6RI1i2gAkK", connect = True)
+client = Cloudant.iam("ca94e55a-7b99-4ad2-82fa-1b2dc7d7d811-bluemix", "3LtbSU2M5BUxRZDPklWM459UJn5bOAHp2dCMoRcoNX2S", connect = True)
 
 my_database = client.create_database('diabetic-retinopathy')
