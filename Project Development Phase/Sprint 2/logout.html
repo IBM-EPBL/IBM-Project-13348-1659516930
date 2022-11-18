@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Logging out!</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+
+    <!-- SCRIPTS -->
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+        crossorigin="anonymous"></script>
+
+    <!-- CSS -->
+    <script src="https://kit.fontawesome.com/43124feaf5.js" crossorigin="anonymous"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
+    <style>
+        #title {
+            font-size: 25px;
+        }
+
+        .screen {
+            text-align: center;
+            padding-top: 70px;
+            ;
+        }
+
+        h2 {
+            font-family: 'Poppins', sans-serif;
+            padding-bottom: 30px;
+        }
+
+        h2:hover {
+            margin-top: 30px;
+        }
+
+        i {
+            width: 80px;
+        }
+
+        i:hover .btn {
+            width: 300px;
+        }
+    </style>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="https://en.wikipedia.org/wiki/Diabetic_retinopathy" id="title">Diabetic
+            Retinopathy Classification</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navcol"
+            aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navcol">
+            <ul class="navbar-nav ms-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="index.html">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="login.html">Login</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="register.html">Register</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <div class="screen">
+
+        <h2><i class="fa-solid fa-quote-left"></i> Thank You for logging in!<i class="fa-solid fa-quote-right"></i></h2>
+        <marquee behavior="scroll" onmouseover="this.stop()" onmouseout="this.start()" width="40%" direction="left">You
+            have been successfully logged out. For more information log
+            in!!<a href="login.html"> Click here</a></marquee>
+        <br><br>
+        <a href="login.html" class="btn btn-primary">Login</a>
+
+    </div>
+</body>
+
+</html>
