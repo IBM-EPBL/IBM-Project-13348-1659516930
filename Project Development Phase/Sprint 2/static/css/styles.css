@@ -1,0 +1,29 @@
+.image{
+  text-align: center;
+}
+h1{
+  text-align: center;
+}
+.reg-box{
+  width: 40%;
+  margin:auto;
+  border-style: solid;
+}
+.register{
+  margin-top: 10%;
+}
+.input1{
+  margin: 20px;
+}
+p{
+  margin-left: 20px;
+}
+.upload{
+  padding: 7% 10%;
+  text-align: center;
+}
+
+.logout{
+  margin-top: 10%;
+  text-align: center;
+}
