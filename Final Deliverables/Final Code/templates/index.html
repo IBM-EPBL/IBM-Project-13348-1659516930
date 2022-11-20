@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- CSS only -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT"
+      crossorigin="anonymous"
+    />
+    <!-- JavaScript Bundle with Popper -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8"
+      crossorigin="anonymous"
+    ></script>
+    <style>
+        #navbarRight {
+            margin-left: auto;
+            padding-right:10px;
+        }
+        .navbar-brand{
+            padding-left:15px;
+        }
+    </style>
+    <title>DR Predcition</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-dark">
+        <div>
+        <a class="navbar-brand" href="#" style="color:aliceblue">Diabetic Retinopathy Classification</a>
+        </div>
+        {{msg}}
+        <div class="navbar-collapse collapse w-100 order-3 dual-collapse2" id="navbarNav">
+          <ul class="navbar-nav mr-auto text-center" id="navbarRight">
+            
+            <li class="nav-item">
+              <a class="nav-link" href="login" style="color: aliceblue;">{{pred}}</a>
+            </li>
+            <li class="nav-item" style="visibility:{{ vis }}">
+              <a class="nav-link" href="register" style="color: aliceblue;">Register</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+      <br><br>
+        <div class="jumbotron container">
+          <h1 class="display-4">Diabetic Retinopathy</h1>
+          <p class="lead">Diabetic retinopathy is a diabetes complication that affects eyes. It's caused by damage to the blood vessels of the light-sensitive tissue at the back of the eye (retina).
+            At first, diabetic retinopathy might cause no symptoms or only mild vision problems. But it can lead to blindness.            
+            The condition can develop in anyone who has type 1 or type 2 diabetes. The longer you have diabetes and the less controlled your blood sugar is, the more likely you are to develop this eye complication.</p>
+          <hr class="my-4">
+          <div class="d-flex justify-content-center">
+            <img style="width:70vw;" src="static/diabetic-retinopathy-home.jpg">
+            </div>
+        </div>
+  </body>
+</html>
