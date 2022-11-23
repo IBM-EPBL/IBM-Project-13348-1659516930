@@ -23,4 +23,4 @@ Transfer learning has become one of the most common techniques that has achieved
 ![Empathy map](https://i.postimg.cc/Y9WgC3gR/empathy-map.jpg)
 
 # Project Tracking
-![Project tracking](./Diabetic-Retinopathy-Detection-completed.png)
+![Project tracking](./Project-Tracking.png)
