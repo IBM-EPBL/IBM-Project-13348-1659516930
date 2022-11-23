@@ -1,0 +1,1 @@
+![Sprint 2 completed](./Sprint-2-completed.png)

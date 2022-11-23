@@ -1,11 +1,4 @@
-# Dataset importing and training model
-Above jupyter notebook will do the following tasks:
-1. Download the dataset.
-2. Split dataset for training and testing.
-3. Data augmentation.
-4. Build the model.
-5. Train the model.
-6. Save the model
+![Sprint 1 completed](./Sprint-1-completed.png)
 
 This model is trained using [kaggle dataset](https://www.kaggle.com/datasets/arbethi/diabetic-retinopathy-level-detection?select=preprocessed+dataset)
 

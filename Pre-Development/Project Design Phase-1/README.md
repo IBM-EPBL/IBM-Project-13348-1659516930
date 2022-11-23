@@ -1,0 +1,1 @@
+![Project Design Phase-1 completed](./Project-Design-Phase-1-completed.png)
